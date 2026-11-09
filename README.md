@@ -18,7 +18,7 @@ This repository contains a comprehensive data analysis project focusing on **Qat
 
 ## 📊 Project Snapshot
 
-| المقياس (Metric) | النتيجة / التفاصيل (Result / Details) |
+| المقياس | النتيجة والتفاصيل |
 | :--- | :--- |
 | 🧳 **إجمالي سجلات الحجوزات** | ~4,000 سجل رحلات |
 | 🌍 **أعلى المناطق إيراداً** | آسيا وأوروبا |
