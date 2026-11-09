@@ -29,17 +29,16 @@ This repository contains a comprehensive data analysis project focusing on **Qat
 
 ---
 
-## 🎯 What I Analyzed
-* Flight Booking Behaviors & Seat Occupancy Rates
-* Regional Revenue Distribution & Ticket Pricing Dynamics
-* Operational Punctuality & Aircraft Delays (Airbus A350 vs. Boeing 777)
-* Passenger Segmentation & Loyalty Tier Value (Privilege Club)
-* Booking Channel Conversion Rates (App, Website, Call Center)
-* Relationship between Flight Delays, Service Quality & Customer Ratings
+## ❓ Business & Research Questions
+To achieve the project objectives, this analysis addresses the following core questions:
+1. **Revenue Optimization:** Which travel classes and flight regions generate the highest average ticket price and revenue?
+2. **Operational Efficiency:** How do flight delays (in minutes) and on-time performance vary across different aircraft types (e.g., Airbus A350 vs. Boeing 777)?
+3. **Customer Satisfaction:** What is the relationship between booking channels (App, Website, Call Center), loyalty tiers, and customer satisfaction ratings?
+4. **Flight Status Patterns:** What key factors influence flight delays and overall status performance?
 
 ---
 
-## 🔍 Key Insights
+## 🔍 Key Insights & Analysis Results
 
 🟢 **> 85%** of flights were recorded as **On-Time** operational status.
 
@@ -60,12 +59,19 @@ This repository contains a comprehensive data analysis project focusing on **Qat
 
 ---
 
-## ❓ Business & Research Questions
-To achieve the project objectives, this analysis addresses the following core questions:
-1. **Revenue Optimization:** Which travel classes and flight regions generate the highest average ticket price and revenue?
-2. **Operational Efficiency:** How do flight delays (in minutes) and on-time performance vary across different aircraft types (e.g., Airbus A350 vs. Boeing 777)?
-3. **Customer Satisfaction:** What is the relationship between booking channels (App, Website, Call Center), loyalty tiers, and customer satisfaction ratings?
-4. **Flight Status Patterns:** What key factors influence flight delays and overall status performance?
+## 🛠️ Methodology & Analytics Workflow
+1. **Business Goal Definition:** Identifying key operational and financial metrics needed by management.
+2. **Data Cleaning & Exploration (EDA):** Handling missing data, filtering invalid records, and standardizing delay metrics.
+3. **Data Modeling & Calculation:** Building custom calculated columns and logic using Excel & Power Query.
+4. **Insight Extraction:** Analyzing trends in ticket pricing, customer feedback, and flight operations.
+
+---
+
+## 🛠️ Tools & Technologies Used
+- **Data Analysis & Processing:** Excel, Power Query, Advanced Functions
+- **Data Visualization & BI:** Power BI, KPI Cards, Interactive Filtering
+- **Version Control & Portfolio:** GitHub
+- **Documentation:** Executive Reports (English & Arabic Markdown)
 
 ---
 
