@@ -18,14 +18,14 @@ This repository contains a comprehensive data analysis project focusing on **Qat
 
 ## 📊 Project Snapshot
 
-| Metric | Result / Details |
+| المقياس (Metric) | النتيجة / التفاصيل (Result / Details) |
 | :--- | :--- |
-| 🧳 **Total Booking Records** | ~4,000 Flight Logs |
-| 🌍 **Top Revenue Regions** | Asia & Europe |
-| ⏱️ **On-Time Performance** | > 85% Operational Status |
-| ⭐ **Customer Rating** | High Positive In-Flight Experience |
-| 🏷️ **Travel Classes** | Economy, Premium Economy, Business, First |
-| 📱 **Booking Channels** | Mobile App, Website, Call Center |
+| 🧳 **إجمالي سجلات الحجوزات** | ~4,000 سجل رحلات |
+| 🌍 **أعلى المناطق إيراداً** | آسيا وأوروبا |
+| ⏱️ **الالتزام بالمواعيد** | أكثر من 85% حالة تشغيلية في الموعد |
+| ⭐ **تقييم العملاء** | تجربة إيجابية عالية على متن الطائرة |
+| 🏷️ **درجات السفر** | الاقتصادية، الاقتصادية الممتازة، رجال الأعمال، الأولى |
+| 📱 **قنوات الحجز** | تطبيق الجوال، الموقع الإلكتروني، مركز الاتصال |
 
 ---
 
