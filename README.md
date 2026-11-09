@@ -55,11 +55,28 @@ To achieve the project objectives, this analysis addresses the following core qu
 
 `Business & First Class` → `Max Margin per Seat / Strategic Long-Haul Revenue`
 
-> These findings represent observed trends within the booking dataset and serve as a baseline for dynamic seat pricing optimization.
+> These findings represent observed trends within the Qatar Airways booking dataset and serve as a baseline for dynamic seat pricing optimization.
 
 ---
 
-## 🛠️ Methodology & Analytics Workflow
+## 📊 Power BI Dashboard Overview
+
+The interactive Power BI dashboard provides executive-level insights across key operational and financial dimensions:
+
+🖼️ **Cover & Executive Overview:** Project introduction and high-level summary of main KPIs, total bookings, and overall ratings.
+
+📈 **Category & Route Performance:** Detailed analysis of revenue distribution, route performance, and travel class margins across Asia and Europe.
+
+⏱️ **Operational Punctuality & Feedback:** Analysis of flight delay patterns, aircraft type performance (Airbus A350 vs. Boeing 777), and customer rating distributions.
+
+---
+
+## 🔄 Analytics Workflow
+`Raw Booking Logs` → `Data Quality Check` → `Data Cleaning & EDA` → `Power Query ETL` → `DAX Metrics` → `Power BI Dashboard` → `Executive Insights`
+
+---
+
+## 🛠️ Methodology & Analytics Steps
 1. **Business Goal Definition:** Identifying key operational and financial metrics needed by management.
 2. **Data Cleaning & Exploration (EDA):** Handling missing data, filtering invalid records, and standardizing delay metrics.
 3. **Data Modeling & Calculation:** Building custom calculated columns and logic using Excel & Power Query.
@@ -69,7 +86,7 @@ To achieve the project objectives, this analysis addresses the following core qu
 
 ## 🛠️ Tools & Technologies Used
 - **Data Analysis & Processing:** Excel, Power Query, Advanced Functions
-- **Data Visualization & BI:** Power BI, KPI Cards, Interactive Filtering
+- **Data Visualization & BI:** Power BI, KPI Cards, Interactive Filtering, DAX
 - **Version Control & Portfolio:** GitHub
 - **Documentation:** Executive Reports (English & Arabic Markdown)
 
